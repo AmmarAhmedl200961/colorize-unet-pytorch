@@ -324,6 +324,7 @@ Run `python evaluation.py` to generate comprehensive metrics including:
 - Ammar Ahmed
 - Ahmad Naeem
 - Khurram Imran
+  
 **Implementation:** Custom U-Net Architecture  
 **Framework:** PyTorch  
 **Date:** November 2025  
